@@ -134,6 +134,7 @@ nav ul li a.current, nav ul li a:hover {
 
 #abt h1 {
     font-family: 'Ubuntu Mono', monospace;
+    font-weight: normal;
     border-bottom: 1px solid #e5e5e5;
 }
 
