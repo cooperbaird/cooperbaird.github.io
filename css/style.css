@@ -141,11 +141,13 @@ nav ul li a.current, nav ul li a:hover {
 .lists h1 {
     border-bottom: 1px solid #e5e5e5;
     font-size: 28px;
+    font-weight: normal;
     margin-top: 40px;
 }
 
 .lists h2 {
     margin-bottom: 0;
+    font-weight: normal;
 }
 
 .lists h3 {
