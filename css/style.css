@@ -110,7 +110,7 @@ nav ul li a.current, nav ul li a:hover {
 
 #showcase {
     min-height: 100vh;
-    background: url('../img/wlu.jpg');
+    background: url('../img/wlu.png');
     background-position: center;
     background-size: cover;
     text-align: center;
@@ -122,14 +122,11 @@ nav ul li a.current, nav ul li a:hover {
     margin-top: 20vh;
     margin-bottom: 20px;
     font-size: 80px;
-    color: #c2e479;
-    text-shadow: -4px 0 black, 0 4px black, 4px 0 black, 0 -4px black;
 }
 
 #showcase p {
     margin-top: 25vh;
     font-size: 18px;
-    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
 
 #abt {
