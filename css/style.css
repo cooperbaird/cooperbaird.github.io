@@ -77,11 +77,6 @@ header {
     background: #1f2f41 url('../img/menu-icon.png') center;
 }
 
-a:hover #menu-icon {
-    background-color: #444;
-    border-radius: 4px 4px 0 0;
-}
-
 nav {
     float: right;
 }
@@ -232,12 +227,11 @@ footer {
         border: 5px solid #a7d6d4;
         right: 7px;
         top: 50px;
-        width: 50%;
+        width: 50vw;
         border-radius: 4px 0 4px 4px;
     }
 
     nav li {
-        text-align: center;
         width: 100%;
     }
 
