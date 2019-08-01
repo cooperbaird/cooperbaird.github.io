@@ -210,7 +210,7 @@ footer {
 }
 
 /* Break point for mobile devices */
-@media(max-width: 768px) {
+@media(max-width: 777px) {
     #menu-icon {
         display: inline-block;
     }
